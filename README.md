@@ -17,8 +17,8 @@ Data engineer focused on **lakehouse architecture** — Apache Iceberg, Delta La
 
 | Project | What it does |
 |---|---|
-| [deltacheck]([https://github.com/YOUR_USERNAME/deltacheck](https://github.com/Nikhil-Sarma076/deltacheck)) | Delta Lake data quality CLI — detects schema drift, null spikes, duplicate PKs by reading the transaction log. O(1) metadata reads, O(Δ) file scans. Zero full-table Spark scans. |
-| [iceberg-ingestion-toolkit]([https://github.com/YOUR_USERNAME/iceberg-ingestion-toolkit](https://github.com/Nikhil-Sarma076/Iceberg-Forge-Local-Lakehouse-Stack)) | Python-native REST service (FastAPI + PyIceberg + MinIO + Trino) that converts CSV/JSON/Parquet into Iceberg tables. Async job queue, partition transforms, schema evolution. No Spark. |
+| [deltacheck](https://github.com/Nikhil-Sarma076/deltacheck) | Delta Lake data quality CLI — detects schema drift, null spikes, duplicate PKs by reading the transaction log. O(1) metadata reads, O(Δ) file scans. Zero full-table Spark scans. |
+| [iceberg-ingestion-toolkit](https://github.com/Nikhil-Sarma076/Iceberg-Forge-Local-Lakehouse-Stack) | Python-native REST service (FastAPI + PyIceberg + MinIO + Trino) that converts CSV/JSON/Parquet into Iceberg tables. Async job queue, partition transforms, schema evolution. No Spark. |
 
 ---
 
