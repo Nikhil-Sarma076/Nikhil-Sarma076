@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Nikhil Sarma 👋</h1>
 
 <p align="center">
-  <b>Data Platform Engineer</b> · Lakehouse Systems · Distributed Data Infrastructure
+  <b>Software Engineer Associate</b> · Lakehouse Systems · Distributed Data Infrastructure
 </p>
 
 <p align="center">
